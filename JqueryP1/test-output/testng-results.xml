@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71172" started-at="2019-02-27T01:13:25Z" finished-at="2019-02-27T01:14:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71172" started-at="2019-02-27T01:13:25Z" finished-at="2019-02-27T01:14:36Z">
+      <class name="com.jquery.pages.HomePage">
+        <test-method status="PASS" signature="BeforeEachClass()[pri:0, instance:com.jquery.pages.HomePage@4f933fd1]" name="BeforeEachClass" is-config="true" duration-ms="4334" started-at="2019-02-26T20:13:25Z" finished-at="2019-02-26T20:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachClass -->
+        <test-method status="PASS" signature="Widget()[pri:0, instance:com.jquery.pages.HomePage@4f933fd1]" name="Widget" duration-ms="29783" started-at="2019-02-26T20:13:29Z" finished-at="2019-02-26T20:13:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Widget -->
+        <test-method status="PASS" signature="AfterEachTest()[pri:0, instance:com.jquery.pages.HomePage@4f933fd1]" name="AfterEachTest" is-config="true" duration-ms="5781" started-at="2019-02-26T20:13:59Z" finished-at="2019-02-26T20:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachTest -->
+        <test-method status="PASS" signature="BeforeEachClass()[pri:0, instance:com.jquery.pages.HomePage@4f933fd1]" name="BeforeEachClass" is-config="true" duration-ms="3436" started-at="2019-02-26T20:14:05Z" finished-at="2019-02-26T20:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachClass -->
+        <test-method status="PASS" signature="Interactions()[pri:1, instance:com.jquery.pages.HomePage@4f933fd1]" name="Interactions" duration-ms="8506" started-at="2019-02-26T20:14:08Z" finished-at="2019-02-26T20:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Interactions -->
+        <test-method status="PASS" signature="AfterEachTest()[pri:0, instance:com.jquery.pages.HomePage@4f933fd1]" name="AfterEachTest" is-config="true" duration-ms="5733" started-at="2019-02-26T20:14:17Z" finished-at="2019-02-26T20:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachTest -->
+        <test-method status="PASS" signature="BeforeEachClass()[pri:0, instance:com.jquery.pages.HomePage@4f933fd1]" name="BeforeEachClass" is-config="true" duration-ms="3629" started-at="2019-02-26T20:14:22Z" finished-at="2019-02-26T20:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachClass -->
+        <test-method status="PASS" signature="Effects()[pri:3, instance:com.jquery.pages.HomePage@4f933fd1]" name="Effects" duration-ms="4224" started-at="2019-02-26T20:14:26Z" finished-at="2019-02-26T20:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Effects -->
+        <test-method status="PASS" signature="AfterEachTest()[pri:0, instance:com.jquery.pages.HomePage@4f933fd1]" name="AfterEachTest" is-config="true" duration-ms="5717" started-at="2019-02-26T20:14:30Z" finished-at="2019-02-26T20:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachTest -->
+      </class> <!-- com.jquery.pages.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
