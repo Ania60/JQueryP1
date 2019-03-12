@@ -44,7 +44,7 @@ public class HomePage {
 			WebElement DrugBox = driver.findElement(By.id("draggable"));
 			action.dragAndDropBy(DrugBox, 200, 100).perform();
 			driver.switchTo().defaultContent();
-			
+			System.out.println("helolo world");
 		
 			
 		
